@@ -1,0 +1,46 @@
+* {
+  display: block;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  background-color: #ffffff;
+}
+
+a{
+  display: flex;
+}
+
+body {
+   height: 100vh;
+   padding-bottom: 4rem;
+ }
+
+html {
+  background-color: #EAEAEA;
+  font-family: 'Rubik', sans-serif;
+  font-size: calc(1rem + 1vw);
+}
+
+script, style, head {
+   display: none;
+ }
+
+ header {
+   padding: 2rem;
+   height: 50vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+ }
+
+
+ oops- *{
+    display: flex;
+    color: #1B1B1E;
+    padding: 1rem;
+    margin: 0 1rem 1rem;
+}
